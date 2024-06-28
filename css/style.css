@@ -1,0 +1,12 @@
+.picture-size {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #0b0a0a;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+}
